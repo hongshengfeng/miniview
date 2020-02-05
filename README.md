@@ -18,4 +18,4 @@
 * [图片裁剪插件cropper](https://github.com/fengyuanchen/cropper)
 
 #### 后台代码
-* [miniAdmin](https://gitee.com/hsfeng/miniAdmin)
+* [miniAdmin](https://gitee.com/hsfeng/miniadmin)
